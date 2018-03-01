@@ -41,4 +41,12 @@ const nombreDeTuFuncion =(obteniendoElElemento) => {
 
 ***
 
+***
 
+## Pseudocódigo
+
+1. Se creo la funcion donde se llama las imágenes y se convierte en un array.
+
+2. Se tiene que entrar a los atributos para poderlos pintar.
+
+3. Tambien se crea un template para remplazar el html con el nuevo con los atributos.
